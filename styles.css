@@ -1,1 +1,144 @@
+.tanyin:hover{
+    font-size:30px;
+    background-color:blue;
+    color:aquamarine;
+}
+.jaz:hover{
+    font-size:30px;
+    background-color:blue;
+    color:aquamarine;
+}
+.nightmare:hover{
+    font-size:30px;
+    background-color:blue;
+    color:aquamarine;
+}
+.kuno:hover{
+    font-size:30px;
+    background-color:blue;
+    color:aquamarine;
+}
+.cat:hover{
+    font-size:30px;
+    background-color:blue;
+    color:aquamarine;
+}
+.lightning:hover{
+    font-size:30px;
+    background-color:blue;
+    color:aquamarine;
+}
+.fag:hover{
+    font-size:30px;
+    background-color:blue;
+    color:aquamarine;
+}
+.lulu:hover{
+    font-size:30px;
+    background-color:blue;
+    color:aquamarine;
+}
+tanyin{
+    background-color:magenta
+}
 
+
+ul{
+    list-style:none;
+    display:inline-flex;
+}
+#demo{
+    background-color: antiquewhite;
+    font-size:15px;
+}
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", fantasy;
+    font-weight: normal;
+    color:aqua;
+    font-size:50px;
+    
+}
+body{
+    background-image:url(07.11.2023_15.31.36_REC.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+p{
+    font-size:25px;
+    color:green;
+    background-color:lightsalmon;
+}
+.Owner{
+    background-color:magenta;
+}
+.Mod{
+    background-color: chartreuse;
+}
+.help{
+    background-color: deeppink;
+}
+tr{
+    background-color:rgb(190, 163, 10);
+    font-size:25px;
+}
+#important:hover{
+    color:crimson;
+    font-size:30px;
+}
+a{
+    text-decoration:none;
+    
+}
+.header{
+    font-family:fantasy;
+    margin-top:10px;
+     background-color:#baaf5d;
+    color:white;
+    border: 7px groove #baaf5d; 
+    text-decoration:none;
+    border-radius: 12px;
+
+}
+.header:hover{
+    filter:brightness(1.25);
+
+}
+.header:active{
+    filter:brightness(.75);
+}
+.event-left:hover{
+    filter:brightness(1.25);
+
+}
+.event-left:active{
+    filter:brightness(.75);
+}
+.event-para{
+    background-image:url(paper-back.jpeg);
+}
+.eventpic{
+    transition: transform 1s,height 2s;
+}
+.eventpic:hover{
+    height:500px;
+    transform: rotate(2deg);
+}
+.event-left{
+    margin-left:10px;
+    font-family:fantasy;
+}
+.event-right{
+    margin-right:100px;
+}
+img{
+    border-color:antiquewhite;
+    border-width:5px;
+    border-style:solid;
+}
+.margin{
+    margin-top:10px;
+}
+blockquote{
+    font-size:50px;
+}
